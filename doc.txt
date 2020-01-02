@@ -20,3 +20,4 @@ he endures pains to avoid worse pains."
 
 git reset --hard will reset everything to the last commit
 
+testing git checkout --file
